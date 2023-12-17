@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080755746130",
+    "project_id": "powerretail-b1370",
+    "storage_bucket": "powerretail-b1370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080755746130:android:e64645d2030a729fd2b68b",
+        "android_client_info": {
+          "package_name": "com.mahgoubtech.powerretail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080755746130-95ffqeo9br6f2aa4pf071fom2clofc0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAAqddeDT75XmPg0YSzBklZOH2evkT-3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080755746130-95ffqeo9br6f2aa4pf071fom2clofc0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
